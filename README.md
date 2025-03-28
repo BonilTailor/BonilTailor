@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Bonilkumar Tailor, a Data Science and Artificial Intelligence graduate at University of Liverpool, UK.
+I’m Bonilkumar Tailor, a Data Science and Artificial Intelligence graduate from University of Liverpool, UK.
 
 ## 👀 My Area of interest:
 - I’m interested in Data Science and Artificial Intelligence fields like Machine Lerning and Deep Learning.
