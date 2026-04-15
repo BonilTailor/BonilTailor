@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-I’m Bonilkumar Tailor, a Data Science and Artificial Intelligence graduate from University of Liverpool, UK.
-
-## 👀 My Area of interest:
-- I’m interested in Data Science and Artificial Intelligence fields like Machine Lerning and Deep Learning.
-
+I’m Bonilkumar Tailor, an AI Engineer with 2+ years of experience building machine learning and AI-driven solutions across analytics, research, and large-scale data projects. I've recently completed Master of Science in Data Science and Artificial Intelligence from University of Liverpool, UK.
 
 ## What I'm upto:
 
-- 🌱 I’m currently having fun with building Machine Learning Models with various ML algorithms.
+- 🌱 I’m currently having fun with building Machine Learning and Large Language Models with various algorithms.
 
 - 💞️ I’m looking to collaborate on Machine Learning / Data Analysis projects.
 
@@ -18,7 +14,7 @@ I’m Bonilkumar Tailor, a Data Science and Artificial Intelligence graduate fro
 ## 📫 How to reach me 
 
 - LinkedIn: [https://www.linkedin.com/in/bonil-tailor][2]
-- E-mail: [boniltailorbt7@gmail.com][3]
+- E-mail: [bonilkumartailor@gmail.com][3]
 
 ## &#x1f4c8; My GitHub Stats
 
@@ -28,5 +24,5 @@ I’m Bonilkumar Tailor, a Data Science and Artificial Intelligence graduate fro
 
 
 [2]: https://www.linkedin.com/in/bonil-tailor/
-[3]: boniltailorbt7@gmail.com
+[3]: bonilkumartailor@gmail.com
 
